@@ -18,8 +18,6 @@
   <li>SOLID</li>
 </ul>
 
-<h1>Aplicação</h1>
-
 <h1>Nota</h1>
 
 <img src="./TrybersAndDragons.png" alt="nota do projeto" width='800' height='600'>
